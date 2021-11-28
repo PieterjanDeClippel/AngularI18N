@@ -1,0 +1,6 @@
+{
+    "welcome": "Welcome",
+    "homeMessage": "Welcome to the homepage",
+    "counterMessage": "Welcome to the counter page",
+    "fetchDataMessage": "Welcome to the fetch-data page"
+}
